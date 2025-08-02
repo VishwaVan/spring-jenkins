@@ -12,6 +12,7 @@
 	<groupId>com.javatechie</groupId>
 	<artifactId>spring-jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>spring-jenkins</name>
 	<description>spring with jenkin integration </description>
 	<packaging>war</packaging>
