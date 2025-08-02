@@ -1,2 +1,2 @@
 # spring-jenkins
-For Jenkins test
+for jenkins testing purpose
